@@ -23,6 +23,7 @@
 .App .item-todo .item-text {
   display: inline-block;
   cursor: pointer;
+  font-size: 20px;
 }
 
 .App input {
@@ -53,7 +54,7 @@
   flex-direction: column;
   cursor: pointer;
   float: right;
-  font-size: 22px;
+  font-size: 20px;
   position: relative;
   left: -4px;
   bottom: 5px;
